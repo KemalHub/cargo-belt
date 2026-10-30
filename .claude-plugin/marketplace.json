@@ -1,0 +1,11 @@
+{
+  "name": "cargo-belt",
+  "owner": { "name": "Kemal Altınok" },
+  "plugins": [
+    {
+      "name": "cargo-belt",
+      "source": "./plugin",
+      "description": "Clawd works a conveyor belt in a hard hat while Claude works."
+    }
+  ]
+}

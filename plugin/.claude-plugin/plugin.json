@@ -1,0 +1,9 @@
+{
+  "name": "cargo-belt",
+  "version": "0.1.0",
+  "description": "Clawd works a conveyor belt in a hard hat while Claude works: boxes for reads, machined parts for edits, barrels for commands, and a truck that ships the cargo when the turn is done.",
+  "author": { "name": "Kemal Altınok" },
+  "license": "MIT",
+  "homepage": "https://github.com/KemalHub/cargo-belt",
+  "icon": ".claude-plugin/icon.png"
+}
